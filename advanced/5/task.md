@@ -1,1 +1,1 @@
-Implement a van Emde Boas tree. Compare it with your previous search tree implementations.
+Implement a [van Emde Boas](https://en.wikipedia.org/wiki/Van_Emde_Boas_tree) tree. Compare it with your previous search tree implementations.
